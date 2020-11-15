@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://minecraft.ethen.me"
-baseurl: "/"
+baseurl: "https://minecraft.ethen.me"
 siteIcon: docs\media\green skull.png
 siteYear: 2020
 siteFooterlink: minecraft.ethen.me
