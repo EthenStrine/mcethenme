@@ -5,14 +5,14 @@ url: "minecraft.ethen.me"
 baseurl: "/"
 siteIcon: docs\media\green skull.png
 siteYear: 2020
-siteFooterlink: https://github.com/coffeebank/moonrise
+siteFooterlink: minecraft.ethen.me
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
 serverName: GreenSkull
-serverDescription: A Minecraft server where we have lots of fun!
+serverDescription: GreenSkull Minecraft is a Survival Multiplayer Player server that brings everything down to the very basics again!
 serverIP: mc.ethen.me
 
 
