@@ -12,7 +12,7 @@ cellLinks:
     curl: https://discord.gg/BNFR54kc7H
     cimage: media/demo03.jpg
 
-  - cname:  
-    curl: https://unsplash.com/photos/ZVprbBmT8QA
-    cimage: https://raw.githubusercontent.com/EthenStrine/mcethenme/master/docs/media/Kofi.png
+  - cname: Donate
+    curl: https://ko-fi.com/greenskull
+    cimage: media/demo04.jpg
 ---
