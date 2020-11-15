@@ -6,7 +6,7 @@ navname: Home
 cellLinks:
   - cname: Server Map
     curl: https://unsplash.com/photos/52gEprMkp7M
-    cimage: docs\media\greenskull map.png
+    cimage: docs/media/greenskull map.png
 
   - cname: Screenshots
     curl: https://unsplash.com/photos/lS2HIgvF-80
