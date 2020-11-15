@@ -12,7 +12,5 @@ cellLinks:
     curl: https://discord.gg/BNFR54kc7H
     cimage: media/demo03.jpg
 
-  - cname: Donate
-    curl: https://unsplash.com/photos/ZVprbBmT8QA
-    cimage: media/demo04.jpg
+  - <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us On Kofi', '#008037', 'Z8Z62OT6A');kofiwidget2.draw();</script> 
 ---
