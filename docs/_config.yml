@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "minecraft.ethen.me"
 baseurl: "/"
-siteIcon: media/android-chrome-192x192.png
+siteIcon: docs\media\green skull.png
 siteYear: 2020
 siteFooterlink: https://github.com/coffeebank/moonrise
 showinSearchEngines: true
@@ -11,15 +11,15 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: GreenSkull
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 79.46.31.53:3498
+serverIP: mc.ethen.me
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/BW9xwsT7Fu
+discordServerID: 777346290743902219
+discordChannelID: 777346291617366027
 
 
 # Navbar Links at the top of the page
