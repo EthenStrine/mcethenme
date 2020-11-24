@@ -5,7 +5,7 @@ navname: Home
 # Cells at the bottom of the page
 cellLinks:
   - cname: Server Map
-    curl: https://raw.githubusercontent.com/EthenStrine/mcethenme/master/docs/media/greenskull%20map.png
+    curl: https://mc.ethen.me:8123
     cimage: https://raw.githubusercontent.com/EthenStrine/mcethenme/master/docs/media/greenskull%20map.png
 
   - cname: Screenshots
