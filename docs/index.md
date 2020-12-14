@@ -13,6 +13,6 @@ cellLinks:
     cimage: media/demo03.jpg
 
   - cname: Donate
-    curl: https://ko-fi.com/greenskull
+    curl: https://store.ethen.me
     cimage: media/demo04.jpg
 ---
